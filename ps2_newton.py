@@ -1,7 +1,7 @@
-#
-#
-#
-#
+#Problem Set 2
+#Name: Trevor Tomlin
+#Collaborators: N/A
+#Time 5:00
 
 def compute_root(poly, x_0, epsilon):
     i = 0
